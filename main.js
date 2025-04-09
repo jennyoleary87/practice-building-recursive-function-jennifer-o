@@ -27,8 +27,8 @@ function reverseString(string) {
     return string;
 }
 
-console.log(reverseString("kite"));
-console.log(reverseString("complete"));
-console.log(reverseString("i"));
-console.log(reverseString("Eye"));
+console.log(reverseString("kite")); // etik
+console.log(reverseString("complete")); // etelpmoc
+console.log(reverseString("i")); // i
+console.log(reverseString("Eye")); // eyE
 
